@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T17:10:55 IST" name="Default suite" finished-at="2023-09-26T17:11:00 IST" duration-ms="5583">
+    <groups>
+      <group name="system">
+        <method signature="CashoraLogin.Metoo()[pri:0, instance:Beginner.CashoraLogin@305ffe9e]" name="Metoo" class="Beginner.CashoraLogin"/>
+      </group> <!-- system -->
+      <group name="smoke">
+        <method signature="CashoraLogin.Me()[pri:0, instance:Beginner.CashoraLogin@305ffe9e]" name="Me" class="Beginner.CashoraLogin"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-09-26T17:10:55 IST" name="Default test" finished-at="2023-09-26T17:11:00 IST" duration-ms="5583">
+      <class name="Beginner.CashoraLogin">
+        <test-method signature="Me()[pri:0, instance:Beginner.CashoraLogin@305ffe9e]" started-at="2023-09-26T17:10:55 IST" name="Me" finished-at="2023-09-26T17:10:55 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Me -->
+        <test-method signature="Metoo()[pri:0, instance:Beginner.CashoraLogin@305ffe9e]" started-at="2023-09-26T17:10:55 IST" name="Metoo" finished-at="2023-09-26T17:10:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Metoo -->
+        <test-method signature="test()[pri:0, instance:Beginner.CashoraLogin@305ffe9e]" started-at="2023-09-26T17:10:55 IST" name="test" finished-at="2023-09-26T17:11:00 IST" duration-ms="5465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="thread()[pri:0, instance:Beginner.CashoraLogin@305ffe9e]" started-at="2023-09-26T17:11:00 IST" name="thread" finished-at="2023-09-26T17:11:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thread -->
+      </class> <!-- Beginner.CashoraLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
